@@ -28,8 +28,10 @@ We have a vibrant community of developers helping each other in our `Telegram gr
 .. image:: https://img.shields.io/pypi/l/python-telegram-bot.svg
    :target: https://www.gnu.org/licenses/lgpl-3.0.html
    :alt: LGPLv3 License
-.. image:: https://github.com/python-telegram-bot/python-telegram-bot/workflows/Testing%20your%20PR/badge.svg
 
+.. image:: https://github.com/python-telegram-bot/python-telegram-bot/workflows/Testing%20your%20PR/badge.svg
+   :target: https://github.com/python-telegram-bot/python-telegram-bot/
+   :alt: Github Actions workflow
 
 .. image:: https://codecov.io/gh/python-telegram-bot/python-telegram-bot/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/python-telegram-bot/python-telegram-bot
