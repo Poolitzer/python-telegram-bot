@@ -3,6 +3,7 @@ on:
   pull_request:
     branches:
       - master
+      - test-branch
   push:
     branches:
       - master
