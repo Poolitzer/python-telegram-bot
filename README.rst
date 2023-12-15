@@ -66,7 +66,7 @@
    :target: https://telegram.me/pythontelegrambotgroup
    :alt: Telegram Group
 
-We have made you a wrapper you can't refuse
+test_difference We have made you a wrapper you can't refuse
 
 We have a vibrant community of developers helping each other in our `Telegram group <https://telegram.me/pythontelegrambotgroup>`_. Join us!
 
