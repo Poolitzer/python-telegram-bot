@@ -13,6 +13,9 @@ jobs:
     name:   test-type-completeness
     runs-on: ubuntu-latest
     steps:
+      - name: Install telegram?
+        run: |
+          pip install . -U
       - uses: jakebailey/pyright-action@v1.8.1
         with:
             verify-types: telegram
